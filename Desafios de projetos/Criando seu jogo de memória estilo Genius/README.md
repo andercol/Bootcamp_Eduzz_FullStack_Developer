@@ -4,7 +4,7 @@ Nesse projeto, o desafio será criar um jogo Gênesis utilizando apenas HTML, CS
 
 
 
-<img src="\assets\img\PrintTela.PNG" alt="PrintTela" style="zoom:70%;" />
+<img src="/assets/img/PrintTela.PNG" alt="PrintTela" style="zoom:70%;" />
 
 
 
